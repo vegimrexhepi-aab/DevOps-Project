@@ -130,7 +130,7 @@
 						<div class="row">
 							<div class="col-md-8">
 								<!-- about text -->
-								<p>Hi 👋, I am Vegim Rexhepi, A Software Engineering Manager based in Kosovo. <br><br> I am an accomplished software engineering manager who has led successful development
+								<p>Hi, I am Vegim Rexhepi, A Software Engineering Manager based in Kosovo. <br><br> I am an accomplished software engineering manager who has led successful development
 									teams and delivered high-quality software solutions. With over 5 years of additional proven
 									development experience, I have a track record of managing large-scale projects, building
 									robust teams, and implementing agile development processes. I possess a thorough
@@ -373,7 +373,7 @@
 						<div class="timeline-container wow" data-wow-delay="0.2s">
 							<div class="content">
 								<span class="time">2017 - 2013</span>
-								<h3 class="title">Bachelor’s Degree at Riinvest College</h3>
+								<h3 class="title">Bachelor's Degree at Riinvest College</h3>
 								<p>Bachelor of Arts in Business Management</p>
 							</div>
 						</div>
