@@ -225,7 +225,7 @@
 								
 																
 								<div class="mt-3">
-									<a href="https://vegimrexhepi.com/CV/Vegim%20Rexhepi%20CV%202023.pdf" target="_blank" class="btn btn-default">Download CV</a>
+									<a href="https://drive.google.com/file/d/1zEbAz_M-FliLoie4wk73WZ0AmLEkQPs9/view?usp=drive_link" target="_blank" class="btn btn-default">Download CV</a>
 								</div>
 							</div>
 						</div>
