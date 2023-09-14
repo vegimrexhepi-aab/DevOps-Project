@@ -130,7 +130,7 @@
 						<div class="row">
 							<div class="col-md-8">
 								<!-- about text -->
-								<p>Hi, I am Vegim Rexhepi, A Software Engineering Manager based in Kosovo who is actually presenting the Master Thesis now ahead of comission at AAB College about "Adaptimi i praktikave DevOps dhe DevSecOps ne ciklin e plote te zhvillimit te aplikacioneve". <br><br> I am an accomplished software engineering manager who has led successful development
+								<p>Hi, I am Vegim Rexhepi, A Software Engineering Manager based in Kosovo who is actually presenting the Master Thesis now ahead of comission at AAB College about <b>"Adaptimi i praktikave DevOps dhe DevSecOps ne ciklin e plote te zhvillimit te aplikacioneve"</b>. <br><br> I am an accomplished software engineering manager who has led successful development
 									teams and delivered high-quality software solutions. With over 5 years of additional proven
 									development experience, I have a track record of managing large-scale projects, building
 									robust teams, and implementing agile development processes. I possess a thorough
