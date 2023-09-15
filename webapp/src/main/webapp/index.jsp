@@ -364,7 +364,7 @@
 						<div class="timeline-container wow">
 							<div class="content">
 								<span class="time">2019 - est. 2023</span>
-								<h3 class="title">Master's Degree at AAB College <b>(Presenting Master Thesis now)</b></h3>
+								<h3 class="title">Master's Degree at AAB College <b>(Tema e masterit eshte afer perfundimit te prezantimit te tij)</b></h3>
 								<p>Master of Science in Computer Science</p>
 							</div>
 						</div>
