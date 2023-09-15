@@ -110,7 +110,7 @@
 
 						<!-- info -->
 						<h2 class="mb-2 mt-0">Vegim Rexhepi</h2>
-						<span>I'm a <span class="text-rotating">Software Engineer, Scrum Master</span></span>
+						<span>I'm a <span class="text-rotating">Software Engineer, Scrum Master, Agile Coach</span></span>
 					</div>
 						<!-- social icons -->
 						<ul class="social-icons light list-inline mb-0 mt-4">
